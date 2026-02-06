@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(python -m venv:*)",
+      "Bash(venvScriptspython.exe -m pip install --upgrade pip)",
+      "Bash(./venv/Scripts/python.exe -m pip install:*)",
+      "Bash(copy:*)",
+      "Bash(./venv/Scripts/python.exe:*)",
+      "Bash(node --version:*)",
+      "Bash(npm:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:id-preview--aef803b0-4693-4b21-a2aa-1cba86fc3a09.lovable.app)",
+      "WebFetch(domain:research-compass-05.lovable.app)"
+    ]
+  }
+}
